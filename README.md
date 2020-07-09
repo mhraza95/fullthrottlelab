@@ -1,4 +1,4 @@
-# Cricket API #
+# Fullthrottle Lab API #
 
 
 ----------
